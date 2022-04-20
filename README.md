@@ -10,6 +10,10 @@ Personal portfolio of front-end web developer Karlygash Yakiyayeva
 ### About me
 Aspiring front-end web developer
 
+### Contacts:
+1. [Linkedin profile](https://www.linkedin.com/in/karlygash-yakiyayeva-452baa186/)
+2. [Github profile](https://github.com/karlakz)
+
 ### Completed courses
 
 ### My personal projects
@@ -23,9 +27,9 @@ Aspiring front-end web developer
 ### Tools that I use
 1. [Git](https://git-scm.com/) - for version control;
 2. VSCode: 
-    - [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode);
-    - [vimextension](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim);
-    - [nodemon](https://www.npmjs.com/package/nodemon);
+    - [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+    - [vimextension](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+    - [nodemon](https://www.npmjs.com/package/nodemon)
 3. [fnm](https://github.com/Schniz/fnm) - Node version manager
 4. Databases:
     - [MongoDB](https://www.mongodb.com/)
