@@ -2,12 +2,13 @@
 Personal portfolio of front-end web developer Karlygash Yakiyayeva
 
 ## Table of contents
-1. 
-2. 
+1. [About me](#about-me) 
+2. [Completed courses](#completed-courses)
+3. [My personal projects](#my-personal-projects)
+4. [Tools that I use](#tools-that-i-use)
 
 ### About me
-
-
+Aspiring front-end web developer
 
 ### Completed courses
 
@@ -20,8 +21,12 @@ Personal portfolio of front-end web developer Karlygash Yakiyayeva
 6. [Magazine via CSS Grid](https://css-grid-magazine.netlify.app/) 
 
 ### Tools that I use
-1. Git - for version control;
+1. [Git](https://git-scm.com/) - for version control;
 2. VSCode: 
-    - prettier;
-    - vimextension;
-    - nodemon;
+    - [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode);
+    - [vimextension](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim);
+    - [nodemon](https://www.npmjs.com/package/nodemon);
+3. [fnm](https://github.com/Schniz/fnm) - Node version manager
+4. Databases:
+    - [MongoDB](https://www.mongodb.com/)
+    - [MySQL](https://www.mysql.com/)
