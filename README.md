@@ -15,6 +15,7 @@ Aspiring front-end web developer
 2. [Github profile](https://github.com/karlakz)
 
 ### Completed courses
+1. [Jest Crash Course - Unit Testing in JS by Traversy Media](https://github.com/karlakz/youtube-jest-crash-course)
 
 ### My personal projects
 1. [Building a city skyline with css variables](https://quirky-ardinghelli-186038.netlify.app/). 
