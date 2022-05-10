@@ -35,3 +35,5 @@ Aspiring front-end web developer
 4. Databases:
     - [MongoDB](https://www.mongodb.com/)
     - [MySQL](https://www.mysql.com/)
+5. Unit Testing:
+    - [JEST](https://jestjs.io/)
