@@ -25,6 +25,7 @@ Aspiring front-end web developer
 5. [Ferris Wheel via CSS animation](https://lnkd.in/dNR72Yrp) 
 6. [Magazine via CSS Grid](https://css-grid-magazine.netlify.app/) 
 7. [QR code component](https://github.com/karlakz/qr-code-component-main)
+8. [I'm a web developer webpage on Heroku](https://shielded-stream-13770.herokuapp.com/)
 
 ### Tools that I use
 1. [Git](https://git-scm.com/) - for version control;
