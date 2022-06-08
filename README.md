@@ -29,6 +29,8 @@ Aspiring front-end web developer
     - Heroku deployment
     - MongoDB Atlas database connection
     - NodeJS
+9. [Project: NFT preview card component](https://nft-preview-card-component-karlakz.netlify.app/)
+    - Repository: [https://github.com/karlakz/nft-preview-card-component](https://github.com/karlakz/nft-preview-card-component)
 
 ### Tools that I use
 1. [Git](https://git-scm.com/) - for version control;
