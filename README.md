@@ -16,6 +16,15 @@ Aspiring front-end web developer
 
 ### Completed courses
 1. [Jest Crash Course - Unit Testing in JS by Traversy Media](https://github.com/karlakz/youtube-jest-crash-course)
+2. [100 Days Of Code - 2022 Web Development Bootcamp](https://www.udemy.com/certificate/UC-ae99f5d6-8a20-4f43-86ce-81495709f261/)
+
+    Covered topics:
+    - How the web works and how to get started as a web developer ✅
+    - Learn web development in 100 days (optional - you can also pick a different pace) ✅
+    - Build websites, web apps and web services (and understand what these "things" are) ✅
+    - Build frontend user interfaces with HTML, CSS & JavaScript ✅
+    - Build backend processes with NodeJS, Express & SQL + NoSQL databases ✅
+    - Add advanced features like user authentication, file upload or database queries to websites ✅
 
 ### My personal projects
 1. [Building a city skyline with css variables](https://quirky-ardinghelli-186038.netlify.app/). 
