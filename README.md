@@ -47,7 +47,8 @@ Aspiring front-end web developer
    - NodeJS
 9. [Project: NFT preview card component](https://nft-preview-card-component-karlakz.netlify.app/)
    - Repository: [https://github.com/karlakz/nft-preview-card-component](https://github.com/karlakz/nft-preview-card-component)
-10. [Guess Number Game](https://github.com/karlakz/guess-number-game)
+10. [Guess Number Game](https://github.com/karlakz/guess-number-game)\
+    [Website URL](https://guess-number-game-karlakz.netlify.app/)
     - DOM Web API
     - How to refactor code
 
