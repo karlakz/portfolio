@@ -53,6 +53,9 @@ Aspiring front-end web developer
     - How to refactor code
 11. [Pig Game](https://github.com/karlakz/pig-game)
     [Website URL](https://pig-game-karlakz.netlify.app/)
+    - DOM Web API
+    - How to refactor code
+    - How to add and remove classes from the classlist method with toggle();
 
 ### Tools that I use
 
