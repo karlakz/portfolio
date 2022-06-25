@@ -51,11 +51,17 @@ Aspiring front-end web developer
     [Website URL](https://guess-number-game-karlakz.netlify.app/)
     - DOM Web API
     - How to refactor code
-11. [Pig Game](https://github.com/karlakz/pig-game)
+11. [Pig Game](https://github.com/karlakz/pig-game)\
     [Website URL](https://pig-game-karlakz.netlify.app/)
     - DOM Web API
     - How to refactor code
     - How to add and remove classes from the classlist method with toggle();
+12. [Testimonials Grid Section](https://github.com/karlakz/testimonials-grid-section)\
+    [Website URL](https://testimonials-grid-section-karlakz.netlify.app/)
+    - Flexbox is one-dimensional;
+    - Grid is two-dimensional;
+    - Flexbox works from the content out;
+    - Grid works from the layout in;
 
 ### Tools that I use
 
