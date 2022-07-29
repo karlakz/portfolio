@@ -62,6 +62,10 @@ Aspiring front-end web developer
     - Grid is two-dimensional;
     - Flexbox works from the content out;
     - Grid works from the layout in;
+13. [Interactive Rating Component](https://github.com/karlakz/interactive-rating-component-main)\
+    [Website URL](https://interactive-rating-component-karlakz.netlify.app/)
+    - Use CSS Custom Properties;
+    - DOM Web API;
 
 ### Tools that I use
 
