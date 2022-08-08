@@ -32,6 +32,13 @@ Aspiring front-end web developer
    - Build backend processes with NodeJS, Express & SQL + NoSQL databases ✅
    - Add advanced features like user authentication, file upload or database queries to websites ✅
 
+3. [DOM Crash Course 2020 - How Does JavaScript DOM Work?](https://www.youtube.com/watch?v=_wvi4Srvggg&t=858s)
+   What I learned:
+   - Browser's engine is able to read html, css and js files;
+   - If an error occurs with HTML code, the browser tries to handle it and there is no way of showing the error on the browser;
+   - If an arror occurs with CSS or JS code, then JS will let the developer know about it;
+   - There is a special variable called `window`, which is injected by the browser into the JS world. This `window` acts as a bridge for JS to communicate with a lot of DOM APIs.
+
 ### My personal projects
 
 1. [Building a city skyline with css variables](https://quirky-ardinghelli-186038.netlify.app/).
