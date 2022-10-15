@@ -54,8 +54,8 @@ Aspiring front-end web developer
 1. [Building a city skyline with css variables](https://quirky-ardinghelli-186038.netlify.app/).
 2. [Tic Tac Toe Game with JS](https://tic-tac-toe-karlakz.netlify.app/).
 3. [Waving Penguin with CSS transform](https://penguin-karlakz.netlify.app/).
-4. [Image carousel with Bootstrap](https://app.netlify.com/sites/img-carousel-karlakz/settings/domain).
-5. [Ferris Wheel via CSS animation](https://lnkd.in/dNR72Yrp)
+4. [Image carousel with Bootstrap](https://img-carousel-karlakz.netlify.app/).
+5. [Ferris Wheel via CSS animation](https://ferris-wheel-karlakz.netlify.app/)
 6. [Magazine via CSS Grid](https://css-grid-magazine.netlify.app/)
 7. [QR code component](https://github.com/karlakz/qr-code-component-main)
 8. [Project "I'm a web developer"](https://shielded-stream-13770.herokuapp.com/)
