@@ -38,6 +38,16 @@ Aspiring front-end web developer
    - If an error occurs with HTML code, the browser tries to handle it and there is no way of showing the error on the browser;
    - If an arror occurs with CSS or JS code, then JS will let the developer know about it;
    - There is a special variable called `window`, which is injected by the browser into the JS world. This `window` acts as a bridge for JS to communicate with a lot of DOM APIs.
+4. [JavaScript DOM Crash Course - Part 1](https://www.youtube.com/watch?v=0ik6X4DJKCc)\
+   What I learned:
+   - DOM is a structured representation of the HTML document. It is a tree of nodes created by the browser and JS can be used to manipulate the DOM and its elements;
+   - DOM is object-oriented meaning that each node has its own properties and methods;
+5. [JavaScript DOM Crash Course - Part 2](https://www.youtube.com/watch?v=mPd2aJXCZ2g)\
+   What I learned:
+   - `parentNode` and `parentElement` are used interchangeably;
+   - `childNode` is not recommended to use as it takes into account all the line breaks, instead `children` is preferred.
+   - Similarly, `firstChild, lastChild, nextSibling, previousSibling` also return line-breaks, while `firstElementChild, lastElementChild, nextElementSibling, previousElementSibling` point to the elements;
+   - We can create HTML elements from inside JS, add classess, ids, attributes, textNodes to it and insert all of them into the DOM using `insertBefore(), insertAfter()` methods;
 
 ### My personal projects
 
@@ -78,6 +88,12 @@ Aspiring front-end web developer
     - JacaScript Internationalization;
     - DOM Web API;
     - Array Methods;
+15. [Expense Tracker](https://github.com/karlakz/react-expense-tracker.git)
+    [Website URL](https://react-expense-tracker-karlakz.netlify.app/)
+    - React Components;
+    - React Hook "useState()";
+    - Parent to Child communication via Props;
+    - Child to Parent communication via callback function as a props;
 
 ### Tools that I use
 
