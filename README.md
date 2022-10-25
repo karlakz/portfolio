@@ -88,13 +88,13 @@ Aspiring front-end web developer
     - JacaScript Internationalization;
     - DOM Web API;
     - Array Methods;
-15. [Expense Tracker](https://github.com/karlakz/react-expense-tracker.git)
+15. [Expense Tracker](https://github.com/karlakz/react-expense-tracker.git)\
     [Website URL](https://react-expense-tracker-karlakz.netlify.app/)
     - React Components;
     - React Hook "useState()";
     - Parent to Child communication via Props;
     - Child to Parent communication via callback function as a props;
-16. [Add User Info Page](https://github.com/karlakz/react-user-add-page)
+16. [Add User Info Page](https://github.com/karlakz/react-user-add-page)\
     [Website URL](https://add-user-page-karlakz.netlify.app/)
     - React Fragments;
     - React Portals;
