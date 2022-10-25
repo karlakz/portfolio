@@ -94,6 +94,11 @@ Aspiring front-end web developer
     - React Hook "useState()";
     - Parent to Child communication via Props;
     - Child to Parent communication via callback function as a props;
+16. [Add User Info Page](https://github.com/karlakz/react-user-add-page)
+    [Website URL](https://add-user-page-karlakz.netlify.app/)
+    - React Fragments;
+    - React Portals;
+    - React Refs ({useRef} Hook);
 
 ### Tools that I use
 
