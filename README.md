@@ -8,6 +8,7 @@ Personal portfolio of front-end web developer Karlygash Yakiyayeva
 2. [Completed courses](#completed-courses)
 3. [My personal projects](#my-personal-projects)
 4. [Tools that I use](#tools-that-i-use)
+5. [Certificates](#certificates)
 
 ### About me
 
@@ -113,3 +114,15 @@ Aspiring front-end web developer
    - [MySQL](https://www.mysql.com/)
 5. Unit Testing:
    - [JEST](https://jestjs.io/)
+
+### Certificates
+
+1. [CompTIA Network+ (N10-007) Cert Prep: 1 Understanding Networks](https://i.imgur.com/7wbwk9R.png)
+2. [CompTIA Network+ (N10-007) Cert Prep: 2 The Physical Network](https://i.imgur.com/5xegIm6.png)
+3. [CompTIA Network+ (N10-007) Cert Prep: 3 The World of TCP/IP](https://i.imgur.com/UWl9Hur.png)
+4. [CompTIA Network+ (N10-007) Cert Prep: 4 Making TCP/IP Work](https://i.imgur.com/EdLcDYZ.png)
+5. [CompTIA Network+ (N10-007) Cert Prep: 5 Securing TCP/IP](https://i.imgur.com/o9EQ7Wl.png)
+6. [CompTIA Network+ (N10-007) Cert Prep: 6 Advanced IP Networking](https://i.imgur.com/Hlg93oW.png)
+7. [CompTIA Network+ (N10-007) Cert Prep: 7 Wireless, Virtual, Cloud, and Mobile Networking](https://i.imgur.com/Kbfc5XA.png)
+8. [CompTIA Network+ (N10-007) Cert Prep: 8 Building a Real-World Network](https://i.imgur.com/nBtBGSa.png)
+9. [CompTIA Network+ (N10-007) Cert Prep: 9 Managing the Network](https://i.imgur.com/eXRxdPH.png)
