@@ -49,6 +49,14 @@ Aspiring front-end web developer
    - `childNode` is not recommended to use as it takes into account all the line breaks, instead `children` is preferred.
    - Similarly, `firstChild, lastChild, nextSibling, previousSibling` also return line-breaks, while `firstElementChild, lastElementChild, nextElementSibling, previousElementSibling` point to the elements;
    - We can create HTML elements from inside JS, add classess, ids, attributes, textNodes to it and insert all of them into the DOM using `insertBefore(), insertAfter()` methods;
+6. [The Modern Angular Crash Course 2022](https://www.youtube.com/watch?v=WHv1YQUg6ow&t=5326s)\
+   What I learned:
+   - Angular Components;
+   - Angular States;
+   - Strucutral Directives;
+   - Attribute Directives;
+   - Event Handling;
+   - Angular Pipes
 
 ### My personal projects
 
@@ -100,6 +108,12 @@ Aspiring front-end web developer
     - React Fragments;
     - React Portals;
     - React Refs ({useRef} Hook);
+17. [Angular Teams Generator App](https://github.com/karlakz/angular-teamapp)\
+    [Website URL](https://angular-teamapp-karlakz.netlify.app/)
+    - Angular Components;
+    - Angular States;
+    - Angular Directives;
+    - Angular Pipes
 
 ### Tools that I use
 
