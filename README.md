@@ -57,6 +57,12 @@ Aspiring front-end web developer
    - Attribute Directives;
    - Event Handling;
    - Angular Pipes
+7. [What is NPM](https://www.youtube.com/watch?v=s70-Vsud9Vk&t=38s)
+   [NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0&t=2246s)
+   What I learned:
+   - NPM is a software registry that contains over 800 000 codes;
+   - All npm packages are defined in files called package.json;
+   - `npm init` command initializes the `package.json` file; 
 
 ### My personal projects
 
@@ -140,3 +146,9 @@ Aspiring front-end web developer
 7. [CompTIA Network+ (N10-007) Cert Prep: 7 Wireless, Virtual, Cloud, and Mobile Networking](https://i.imgur.com/Kbfc5XA.png)
 8. [CompTIA Network+ (N10-007) Cert Prep: 8 Building a Real-World Network](https://i.imgur.com/nBtBGSa.png)
 9. [CompTIA Network+ (N10-007) Cert Prep: 9 Managing the Network](https://i.imgur.com/eXRxdPH.png)
+
+Check out my completed project "Angular Teams Generator App" using Angular Components, States, Directives, and Pipes.
+
+✅ GitHub Repo: https://github.com/karlakz/angular-teamapp
+
+✅ Website URL: https://angular-teamapp-karlakz.netlify.app/
