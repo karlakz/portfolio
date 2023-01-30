@@ -120,6 +120,20 @@ Aspiring front-end web developer
     - Angular States;
     - Angular Directives;
     - Angular Pipes
+18. [Bear](https://github.com/karlakz/canvasBear)\
+    [Website URL](https://main--bear-canvas-karlakz.netlify.app/)
+    - Canvas element for creating graphics programmatically;
+    - Canvas Context - a logical surface that contains objects and methods used to draw graphics, images, and text onto the canvas element in an HTML document;
+    - arc() method;
+19. [Igloo](https://github.com/karlakz/igloo-with-gradients)\
+    [Website URL](https://igloo-karlakz.netlify.app/)
+    - Canvas Element;
+    - Canvas Context;
+    - `rect()` method;
+    - `arc()` method;
+    - Linear Gradients;
+    - Radial Gradients;
+
 
 ### Tools that I use
 
