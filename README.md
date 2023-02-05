@@ -133,6 +133,13 @@ Aspiring front-end web developer
     - `arc()` method;
     - Linear Gradients;
     - Radial Gradients;
+20. [Landing Page Design](https://github.com/karlakz/css-animation)
+    [Website URL](https://landing-page-with-animation-karlakz.netlify.app/)
+    - CSS Animations;
+    - Using keyframes and simplifying them;
+    - Background property;
+    - CSS Positioning (relative and absolute);
+    - Pseudo-elements (::before and ::after); 
 
 
 ### Tools that I use
