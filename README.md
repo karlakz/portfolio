@@ -7,8 +7,9 @@ Personal portfolio of front-end web developer Karlygash Yakiyayeva
 1. [About me](#about-me)
 2. [Completed courses](#completed-courses)
 3. [My personal projects](#my-personal-projects)
-4. [Tools that I use](#tools-that-i-use)
-5. [Certificates](#certificates)
+4. [Open Source contributions](#open-source-contributions)
+5. [Tools that I use](#tools-that-i-use)
+6. [Certificates](#certificates)
 
 ### About me
 
