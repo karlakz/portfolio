@@ -158,6 +158,8 @@ Aspiring front-end web developer
    - [MySQL](https://www.mysql.com/)
 5. Unit Testing:
    - [JEST](https://jestjs.io/)
+6. CSS Preprocessors:
+    - [SCSS](https://sass-lang.com/)
 
 ### Certificates
 
