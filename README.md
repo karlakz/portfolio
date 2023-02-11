@@ -173,8 +173,4 @@ Aspiring front-end web developer
 8. [CompTIA Network+ (N10-007) Cert Prep: 8 Building a Real-World Network](https://i.imgur.com/nBtBGSa.png)
 9. [CompTIA Network+ (N10-007) Cert Prep: 9 Managing the Network](https://i.imgur.com/eXRxdPH.png)
 
-Check out my completed project "Angular Teams Generator App" using Angular Components, States, Directives, and Pipes.
 
-✅ GitHub Repo: https://github.com/karlakz/angular-teamapp
-
-✅ Website URL: https://angular-teamapp-karlakz.netlify.app/
