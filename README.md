@@ -142,6 +142,8 @@ Aspiring front-end web developer
     - CSS Positioning (relative and absolute);
     - Pseudo-elements (::before and ::after); 
 
+### Open Source contributions
+1. [The-TypeScript-Workshop: Error during compilation #6](https://github.com/PacktWorkshops/The-TypeScript-Workshop/pull/6)
 
 ### Tools that I use
 
