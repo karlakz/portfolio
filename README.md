@@ -134,13 +134,21 @@ Aspiring front-end web developer
     - `arc()` method;
     - Linear Gradients;
     - Radial Gradients;
-20. [Landing Page Design](https://github.com/karlakz/css-animation)
+20. [Landing Page Design](https://github.com/karlakz/css-animation)\
     [Website URL](https://landing-page-with-animation-karlakz.netlify.app/)
     - CSS Animations;
     - Using keyframes and simplifying them;
     - Background property;
     - CSS Positioning (relative and absolute);
     - Pseudo-elements (::before and ::after); 
+21. [Meet the Team with SCSS](https://github.com/karlakz/meet-the-team)\
+    [Website URL](https://meet-the-team-karlakz.netlify.app/)
+    - SCSS preprocessor;
+    - SCSS `@each` loop;
+    - SCSS variables;
+    - SCSS nesting;
+    - SCSS partials;
+    - CSS animation and keyframes;
 
 ### Open Source contributions
 1. [The-TypeScript-Workshop: Error during compilation #6](https://github.com/PacktWorkshops/The-TypeScript-Workshop/pull/6)
