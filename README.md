@@ -149,6 +149,12 @@ Aspiring front-end web developer
     - SCSS nesting;
     - SCSS partials;
     - CSS animation and keyframes;
+22. [Profile with HTML Templates](https://github.com/karlakz/profile-with-html-templates)\
+    [Website URL](https://profile-using-templates-karlakz.netlify.app/)
+    - Custom elements;
+    - Custom Elements Life Cycle;
+    - Shadow DOM;
+    - HTML Templates
 
 ### Open Source contributions
 1. [The-TypeScript-Workshop: Error during compilation #6](https://github.com/PacktWorkshops/The-TypeScript-Workshop/pull/6)
