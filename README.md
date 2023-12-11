@@ -1,6 +1,6 @@
 # portfolio
 
-Personal portfolio of front-end web developer Karlygash Yakiyayeva
+Karlygash Yakiyayeva's personal portfolio
 
 ## Table of contents
 
@@ -13,7 +13,7 @@ Personal portfolio of front-end web developer Karlygash Yakiyayeva
 
 ### About me
 
-Aspiring front-end web developer
+Aspiring DevOps | Systems Engineer with experience in frontend web development
 
 ### Contacts:
 
@@ -63,7 +63,7 @@ Aspiring front-end web developer
    What I learned:
    - NPM is a software registry that contains over 800 000 codes;
    - All npm packages are defined in files called package.json;
-   - `npm init` command initializes the `package.json` file; 
+   - `npm init` command initializes the `package.json` file;
 
 ### My personal projects
 
@@ -140,7 +140,7 @@ Aspiring front-end web developer
     - Using keyframes and simplifying them;
     - Background property;
     - CSS Positioning (relative and absolute);
-    - Pseudo-elements (::before and ::after); 
+    - Pseudo-elements (::before and ::after);
 21. [Meet the Team with SCSS](https://github.com/karlakz/meet-the-team)\
     [Website URL](https://meet-the-team-karlakz.netlify.app/)
     - SCSS preprocessor;
@@ -157,6 +157,7 @@ Aspiring front-end web developer
     - HTML Templates
 
 ### Open Source contributions
+
 1. [The-TypeScript-Workshop: Error during compilation #6](https://github.com/PacktWorkshops/The-TypeScript-Workshop/pull/6)
 
 ### Tools that I use
@@ -173,7 +174,7 @@ Aspiring front-end web developer
 5. Unit Testing:
    - [JEST](https://jestjs.io/)
 6. CSS Preprocessors:
-    - [SCSS](https://sass-lang.com/)
+   - [SCSS](https://sass-lang.com/)
 
 ### Certificates
 
@@ -186,5 +187,3 @@ Aspiring front-end web developer
 7. [CompTIA Network+ (N10-007) Cert Prep: 7 Wireless, Virtual, Cloud, and Mobile Networking](https://i.imgur.com/Kbfc5XA.png)
 8. [CompTIA Network+ (N10-007) Cert Prep: 8 Building a Real-World Network](https://i.imgur.com/nBtBGSa.png)
 9. [CompTIA Network+ (N10-007) Cert Prep: 9 Managing the Network](https://i.imgur.com/eXRxdPH.png)
-
-
