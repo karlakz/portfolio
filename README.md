@@ -187,3 +187,4 @@ Aspiring DevOps | Systems Engineer with experience in frontend web development
 7. [CompTIA Network+ (N10-007) Cert Prep: 7 Wireless, Virtual, Cloud, and Mobile Networking](https://i.imgur.com/Kbfc5XA.png)
 8. [CompTIA Network+ (N10-007) Cert Prep: 8 Building a Real-World Network](https://i.imgur.com/nBtBGSa.png)
 9. [CompTIA Network+ (N10-007) Cert Prep: 9 Managing the Network](https://i.imgur.com/eXRxdPH.png)
+10. [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/2771522f-c308-46dc-93e2-384095228fb7)
