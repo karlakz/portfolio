@@ -160,7 +160,7 @@ Aspiring DevOps | Systems Engineer with experience in frontend web development
 
 1. [The-TypeScript-Workshop: Error during compilation #6](https://github.com/PacktWorkshops/The-TypeScript-Workshop/pull/6)
 
-### Tools that I use
+### My toolset
 
 1. [Git](https://git-scm.com/) - for version control;
 2. VSCode:
@@ -175,6 +175,8 @@ Aspiring DevOps | Systems Engineer with experience in frontend web development
    - [JEST](https://jestjs.io/)
 6. CSS Preprocessors:
    - [SCSS](https://sass-lang.com/)
+7. Password Managers:
+   - [KeePassXC](https://keepassxc.org/)
 
 ### Certificates
 
